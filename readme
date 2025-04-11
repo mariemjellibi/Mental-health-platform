@@ -1,16 +1,24 @@
- User Side
-✅ Register/Login (JWT, hashed passwords)
+# Mental Health Wellness Platform 🌱
 
-💬 Chat with a sentiment-aware AI (OpenAI or Hugging Face)
+A comprehensive mental health application focusing on journaling, meditation, and community support. Built with the MERN stack (MongoDB, Express, React, Node.js) and Tailwind CSS.
 
-📊 Mood Tracker (based on user inputs and chat sentiment)
+## Key Features ✨
+- **User Authentication**: JWT-based secure login/registration
+- **Personalized Dashboard**: Mood tracking, activity stats, and daily affirmations
+- **Journaling System**: 
+  - Streak tracking with progress visualization
+  - Rich text entries with prompts
+  - Entry history with search/filter
+- **Meditation Hub**: Guided sessions for different needs (mindfulness, anxiety relief)
+- **Secure Chat**: Real-time communication with mental health professionals
+- **Responsive UI**: Mobile-first design with calming color schemes
 
-🧘 Personalized content: Breathing exercises, videos, articles
-
-📁 Profile with mood history & resources accessed
-Bonus
-📱 PWA (so it feels like a mobile app)
-
-🌙 Dark mode
-
-🔔 Optional email notifications
+## Technologies Used 🛠️
+| Component        | Technology                          |
+|------------------|-------------------------------------|
+| Frontend         | React, React Router, Tailwind CSS   |
+| Backend          | Node.js, Express                    |
+| Database         | MongoDB, Mongoose                   |
+| Authentication   | JWT, bcrypt                         |
+| Icons            | Lucide React Icons                  |
+| HTTP Client      | Axios              
