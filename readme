@@ -1,0 +1,16 @@
+ User Side
+✅ Register/Login (JWT, hashed passwords)
+
+💬 Chat with a sentiment-aware AI (OpenAI or Hugging Face)
+
+📊 Mood Tracker (based on user inputs and chat sentiment)
+
+🧘 Personalized content: Breathing exercises, videos, articles
+
+📁 Profile with mood history & resources accessed
+Bonus
+📱 PWA (so it feels like a mobile app)
+
+🌙 Dark mode
+
+🔔 Optional email notifications
